@@ -1,0 +1,41 @@
+# ------------------------------------------------------------------------------
+# Fichiers et dossiers générés par Unity (à ignorer)
+# ------------------------------------------------------------------------------
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Ss]ettings/
+
+# Fichiers de projet spécifiques à la machine
+/Assets/AssetStoreTools
+/Assets/AssetStoreTools*.meta
+
+# Fichiers et dossiers générés par l'IDE (ex: Visual Studio)
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+
+# ------------------------------------------------------------------------------
+# Fichiers optionnels à ignorer (selon votre flux de travail)
+# ------------------------------------------------------------------------------
+
+# Fichiers de backup ou temporaires
+*[Bb]ackup
+*.bak
+*.orig
+
+# Cache du déploiement WebGL (très lourd)
+/Builds/
+/[Dd]ata/
+
+# Fichiers générés par les logiciels de Stitching/Retouche
+# (Vous conserverez les tuiles compressées, mais pas les fichiers de projet)
+*.psd
+*.tiff
+*.kra
