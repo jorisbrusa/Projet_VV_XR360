@@ -2,6 +2,8 @@
 
 ## Installation pour Unity
 
+- Lien pour télécharger le projet : https://drive.google.com/file/d/11U_AG8Jk4uPns4S8aVk143JsHqXZfh2F/view?usp=sharing
+
 ### Étapes pour récupérer le projet :
 
 1. **Décompresser le fichier ZIP**
